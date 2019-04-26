@@ -34,3 +34,6 @@ func main() {
 	}
 
 }
+
+
+// Home System ~100 - 120 ms
